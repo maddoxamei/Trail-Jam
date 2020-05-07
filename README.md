@@ -4,10 +4,8 @@ An Oregon Trail-like game with life, death, jams, puns, and more. Make friends, 
 A collaborative game created for the 2020 Ludam Dare Game Jam.
 
 <a href="https://h-labs.itch.io/trail-jam-it-go-well-oregone-wrong" target="_blank">Click to Play</a>
+[![IMAGE ALT TEXT](Possible_backgrounds/Trail_Jam.png)](https://h-labs.itch.io/trail-jam-it-go-well-oregone-wrong "Click to Play")
 
-<img src="Possible backgrounds_/Trail Jam.png"
-     alt="Trail Jam"
-     style="float: left; margin-right: 10px;" />
 
 # Credits
 * __Art:__ Maya Holt-Teza
