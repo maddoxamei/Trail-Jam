@@ -11,7 +11,7 @@ A collaborative game created for the 2020 Ludam Dare Game Jam.
 * __Art:__ Maya Holt-Teza
 * __Design & Writing:__ Mei Maddox
 * __Music:__ Lailah Kalantari  
-* __Programming:__ [Hunt Spara](https://github.com/HuntJSparra)
+* __Programming:__ <a href="https://github.com/HuntJSparra" target="_blank">Hunt Spara</a>
 
 # Copyright
 The content is owned and produced by the four persons listed above. All are welcome to use, but please site the original creator.
